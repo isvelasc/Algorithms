@@ -1,0 +1,3 @@
+x: A A T G C G T -
+y: - - A C G - A T
+Score: 40

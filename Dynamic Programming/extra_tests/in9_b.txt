@@ -1,0 +1,8 @@
+AATGCGT
+ACGAT
+x A C G T -
+A 2 3 3 9 1
+C 3 2 9 3 1
+G 3 9 2 3 1
+T 9 3 3 2 1
+- 1 1 1 1 0

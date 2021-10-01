@@ -1,0 +1,3 @@
+x: A C C A G T T T A G C A C A C C
+y: - - - - - T T T A G - - - - - -
+Score: 10

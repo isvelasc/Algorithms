@@ -1,0 +1,3 @@
+x: - A C G T A C G T A C G T A C T
+y: T A C G T A C G T A C G T A C -
+Score: 28
